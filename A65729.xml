@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This to be delivered to the counsellors that are sitting in counsel as a warning from the Lord unto them before the terrible day come (that warning shall be no more) ... / by Dorothy White.</title>
+            <author>D. W. (Dorothy White)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65729</idno>
+            <idno type="STC">Wing W1753</idno>
+            <idno type="STC">ESTC R30192</idno>
+            <idno type="EEBO-CITATION">11258800</idno>
+            <idno type="OCLC">ocm 11258800</idno>
+            <idno type="VID">47185</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47185)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1452:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This to be delivered to the counsellors that are sitting in counsel as a warning from the Lord unto them before the terrible day come (that warning shall be no more) ... / by Dorothy White.</title>
+                  <author>D. W. (Dorothy White)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Judgment Day.</term>
+               <term>God --  Wrath.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47185:1" rendition="simple:additions"/>
+            <p>This to be delivered to the COUNSELLORS that are ſitting in COUNSEL.</p>
+            <p>AS A Warning from the Lord unto them Before the Terrible day come (that warning ſhall be no more) before his wrath be kin<g ref="char:EOLhyphen"/>dled, that there ſhall be no quenching of it. If his wrath be kindled but a little, then bleſſed are all they that put their truſt in him: Then wo unto all them that are out of Covenant with God.</p>
+            <p>By <hi>Dorothy White.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:47185:2"/>
+            <p>UPon the ſeventh day of the third moneth 1659. The Word of the Lord came to me, and it ſtuck cloſe in me: And again on the eight day of the ſame month, as I was waiting upon the Lord with his people, the Word of the Lord came to me, and it ſtuck cloſe in me, about the ſpace of two hours, ſaying, I will overturn, I will overturn the powers of the earth; and the word of the Lord came to me, ſaying, write again once more to them that are ſitting in Coun<g ref="char:EOLhyphen"/>ſel, to Judges and Rulers; you rule by the powers of dark<g ref="char:EOLhyphen"/>neſſe, and your judgement is of the Prince of this World, your judgement and rule that you are ſetting up, will the Lord God ſpeedily throw down; and you will the Lord God confound, that are about to eſtabliſh your own lawes, whileſt you are out of the Law of God your ſelves, and are governing, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing in the earth by the greatneſſe of your power, you go about to bring all to your Laws (as <hi>Nebuchad<g ref="char:EOLhyphen"/>nezar</hi> the King did) But your Kingdom ſhall be taken from you, and the Lord will have the Government of it him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>All power in Heaven and earth is given unto the Son, into his hands is all government committed, and him hath the Father ſealed, to be the everlaſting governor of his people (the Prince of peace) that ruleth all things in righteouſneſſe, he ſhall have the everlaſting dominion; new <hi>Jeruſalem</hi> is come down from Heaven, and a King ſhall reign over the World, and at his coming ſhall he overturn all the powers of the earth. Now is <hi>Sion</hi> appearing in beauty, in excellency is ſhe ſhining forth in the beauty of holineſſe, adorned as a bride for her husband; The marriage of the Lamb is come, now is he com<g ref="char:EOLhyphen"/>ing in power and great glory; and now is the Father raiſing him up to life again, that was the Lamb ſlain ſince the foun<g ref="char:EOLhyphen"/>dation of the World, and is yet ſlain in the ſtreets of ſpiritu<g ref="char:EOLhyphen"/>al <hi>Sodom</hi> and <hi>Egypt,</hi> and there is our Lord crucified; But wo unto you that decree unrighteous decrees, and are yet cruci<g ref="char:EOLhyphen"/>fying the Lord of glory; the cry of oppreſſion is amongſt you,
+<pb n="3" facs="tcp:47185:2"/>you have laid heavy burthens upon the righteous, and the Lord God is coming to viſit for theſe things, he will bring down your glory to the ground, and lay your honour in the duſt of the earth, he is coming to ſtain the glory of all fleſh; the King<g ref="char:EOLhyphen"/>dom of God is now come and coming, and his will is now do<g ref="char:EOLhyphen"/>ing, and done in the earth as it is in Heaven, and holy is his Name, and all that are led by his ſpirit are led into holineſs, for holineſs becometh the houſe of God forever; It is none but the pure in heart ſhall ſee God, without holineſs none ſhall ſee God; for righteouſneſs is the Lord, &amp; the Lord leadeth his peo<g ref="char:EOLhyphen"/>ple into righteouſneſs, they that are led by his grace, are led out of ungodlineſs, &amp; out of the paths of the wicked, for the wicked walk in darknes, they ſtumble at noonday; the fooliſh man ſaith in his heart, there is no God, but they be corrupted and be<g ref="char:EOLhyphen"/>come abominable, there is none that doth good, no not one; it is the fool that walketh in darkneſſe, he knoweth not God, for God is light, and in him is no darkneſſe at all; they that walk in darkneſſe are corrupted, they are become abominable, there is none that doth good, no not one; They that are in darkneſſe, are working the deeds of darkneſſe, they are bring<g ref="char:EOLhyphen"/>ing forth the unfruitful works of darkneſs, but light ſhineth in darkneſs, and darkneſs comprehendeth it not, for the light hath the Lord God given to manifeſt darkneſs, and to lead out of darkneſs, and to lead out of ſin; they that are led into ſin, are led from the light, but the light diſcovers it and reproves it in ſecret; for whatſoever is reproveable, is made manifeſt by the light, all that is acted contrary to the light, is condemn<g ref="char:EOLhyphen"/>ed by the light, immediately, and this is the condemnation, that light is come into the World, and men love darkneſs ra<g ref="char:EOLhyphen"/>ther then light, becauſe their deeds are evil; they that do evil, cometh not to the light, leaſt by the light they ſhould be reproved; there is no condemnation to thoſe that are in Chriſt Jeſus, that walk not after the fleſh, but after the ſpirit, for condemnation hath paſt over them already, they are com<g ref="char:EOLhyphen"/>pleat in Chriſt and renewed into his image, they are in cove<g ref="char:EOLhyphen"/>nant with God, they are the Children of God that are born of God; he that is born of God ſinneth not, neither can do, becauſe his ſeed remaineth in him; he that is born of God o<g ref="char:EOLhyphen"/>vercometh the World, and this is our victory (even our faith)
+<pb n="4" facs="tcp:47185:3"/>that hath given us victory over the World, and this faith ſtandeth in the Son, and this faith removes mountains; he that hath faith but as a grain of muſtard-ſeed, ſhall ſay unto the mountains be removed, unto the Sycamore-tree be carried into the midſt of the Sea [it ſhall be ſo:] And this is the faith that ſtandeth in the Son [that removes mountains of ſin] and the fruitleſs tree that cumbereth the ground removed, and carried into the midſt of the ſea. Read within, and come to the word of faith [the word that is nigh thee, in thy heart] that the mountains of ſin [within] may be removed; The fruitleſs tree within that hath brought forth the corrupt fruit, that hath long cumbered the ground: Come to know this fruitleſs tree to be removed that hath brought forth no fruit unto God, and carried away by the power of the Son of God; ſo that the pure may be known from that that is unpure, and that that is clean, may be known from that that is unclean, and that that is holy, may be known from that that is unho<g ref="char:EOLhyphen"/>ly; for that that is holy is to abide in the houſe of God; for he dwelleth not in unclean Temples, neither dwelleth he in Temples made with hands, but his Temples are his ſaints, it is written that their bodies are the Temples of the Holy ghoſt, and this is the living ſacrifice that the Lord God accepts: Re<g ref="char:EOLhyphen"/>member that your bodies are made a living ſacrifice holy and acceptable unto God; without holineſs none ſhall ſee God; it is the living that praiſeth the Lord, the dead cannot; they that are dead in ſins and treſpaſſes, they praiſe not God, but it is the living that praiſeth him; its the Redeemed of the Lord that ſings the ſongs of <hi>Sion,</hi> the ſongs of holineſs; they are re<g ref="char:EOLhyphen"/>deemed from the earth, being the firſt fruits unto God, they are them that follow the Lamb in the regeneration, and they are regenerated, &amp; theſe are they that follow the Lamb through great tribulation, &amp; have waſhed their garments in the blood of the Lamb, and they ſhall ſit on his right hand for evermore, and they are ſaved by him, that are redeemed from their ini<g ref="char:EOLhyphen"/>quities, and they are come to the perfect liberty of the Sons of God, they are led by his ſpirit, as many as are led by the ſpirit of God are the Sons of God; and they are led into all truth, out of all unrighteouſneſs for the ſpirit of truth whom the father ſaid, he would ſend (the comforter is come) he leadeth into all truth, he is come to convince the World of ſin, of righteouſneſſe and
+<pb n="5" facs="tcp:47185:3"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and to bring everlaſting righteouſneſs, and to bring true judgement, and to ſet up true judgement again in the earth, that juſtice and equity may rule, that all falſe judg<g ref="char:EOLhyphen"/>es may be overturned by the power of the Son of God, and all the unjuſt Rulers that are ruling and governing (by the Prince of this World.)</p>
+            <p>Your government is from beneath; a heavy cry and oppreſ<g ref="char:EOLhyphen"/>ſion is found amongſt you, and the Lord God of Heaven will be avenged on you: Wo from the Lord God unto you that are found to be oppreſſors in the day of the Lords wrath, when he ſhall come to take an account of your unrighteous actions, and find you guilty of oppreſing the juſt.</p>
+            <p>You are laying heavy burthens upon the righteous, and you will the Lord God plead with; and whether will you fly from the terrible God in the day of vengeance? it is not the hills nor the mountains can cover you from his wrath that ſit<g ref="char:EOLhyphen"/>eth on the throne; for a day of terrible judgement is coming upon you, for the ſword of the Lord is already drawn to cut down his enemies, and to ſlay them before him, that would not that he ſhould reign over them; but he will reign and bring down his enemies under him, and by his power will he be known to be King over all Kingdoms of the World; for God is coming to throw down the kingdoms of darkneſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, for Kingdom ſhall riſe againſt Kingdom, and Nation ſhall riſe a<g ref="char:EOLhyphen"/>gainſt Nation, and there ſhall be wars and rumors of wars in the earth; for <hi>Michael</hi> our Prince hath a Battel to fight with the Dragon, and the Dragon is to be caſt forth [the old Ser<g ref="char:EOLhyphen"/>pent called the Devil] for <hi>Michael</hi> our Prince is come to rule in the earth; and the old Serpent called the Devil ſhall be caſt forth, as he ſaid, the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rince of this World cometh and hath nought in me; but <hi>Michael</hi> our Prince is come to make war in righteouſneſſe againſt the Prince of this World, and againſt the Kingdoms of darkneſſe; and at his coming the Kingdomes of darkneſs do war, for he is come, not to bring peace on the earth, but a ſword, and to ſet at variance Kingdom againſt Kingdom, that the Kingdom of God may be ſet up over all; for the Kingdoms of the World, ſhall become the Kingdoms of God and of his Chriſt, and he ſhall rule over the Nations of the earth, and unto him ſhall all bow and bend, and unto him
+<pb n="6" facs="tcp:47185:4"/>ſhall all the Powers of the earth be made ſubject (who is the light) for now hath the terrible God appeared, and is ap<g ref="char:EOLhyphen"/>pearing, and he is drawn neer to Judgment by him that is the light, for by him ſhall all be Judged, and if the light do not Juſtifie, then it will condemn, and this is the condemnati<g ref="char:EOLhyphen"/>on of the world, that light is come, and the world hates it, re<g ref="char:EOLhyphen"/>ject it, and diſpiſes it: but wo unto you that deſpiſe the counſell of the Lord, O you deſpiſers and wonderers and periſh, I will work a work in your dayes, that you can in no wiſe beleeve, though men declare it unto you.</p>
+            <p>How can you Believe, that receive honour one of another, And ſeek not the honour of God onely, and have not given honour to whom honour belongeth? for God will be honou<g ref="char:EOLhyphen"/>red, and he is jealous of his glory, he hath given it to the Son that in him all may be honourable: But ye have diſhonoured the Son that are giving honour one to another: But the Son honoureth the Father, and you have diſhonoured the Son that are giving honour to the Beaſt: And wo from the Lord God unto you that ſeek honour unto your ſelves (whiles you are out of that which is honourable) whileſt you are out of the Son of God (the light of the world, and are found perſe<g ref="char:EOLhyphen"/>ſecutors of him whom the Father ſent a Light into the world, and in Him he is well pleaſed, this is my well beloved Son in whom I am well pleaſed (ſaid God) he it is that the Father ſent to do his will in the earth, as he ſaid, I came not to do my own will, but the will of him that ſent me, and this is the will of God, even your ſanctification, that you ſhould be ſan<g ref="char:EOLhyphen"/>ctified through obedience, that you ſhould obey the Son of God (the light) and life of men, this is my well beloved Son, here ye him in all things, ſaith the Father of Lights, for this is the gift of God, and it is perfect; every good and perfect gift commeth from above, from the Father of Lights, with whom there is no variableneſs nor ſhaddow of change; But he is the ſame yeſterday, to day and for ever.</p>
+            <p>Behold, now is the Lord God, coming, to take vengeance, on the Rebelious, that Rebels againſt the light of the Son of God (in themſelves) that have often called them to return from the evil of their wayes, &amp; to return from their unfruit<g ref="char:EOLhyphen"/>ful works of Darkneſs: But they have not regarded the call of the Lord by the light of the Son (within them) that have
+<pb n="7" facs="tcp:47185:4"/>often reproved them in ſecret for their unrighteouſs acti<g ref="char:EOLhyphen"/>ons: But wo from the Lord God unto ſuch that hath quench<g ref="char:EOLhyphen"/>ed the ſpirit of the Lord, and are ſtriving againſt him to hin<g ref="char:EOLhyphen"/>der his work, by making unrighteous Laws, You draw the Judgments of God upon you; for a day of ſwift Deſtruction is coming upon you; A day of ſorrow, anguiſh, and great tribu<g ref="char:EOLhyphen"/>lation is haſtening ſpeedily upon all ſuch as are yet ſtrive<g ref="char:EOLhyphen"/>ing againſt the Lord; wo from the Lord God to ſuch that are found ſo doing, at the appearing of the Righteous Judge of heaven; whither will you fly from him in the day <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of his fierce wrath, when he ſhall pour out his Judgments without mercy upon the Rebellious and upon the ſtiffnecked, that have hardned their hearts againſt the Lord?</p>
+            <p>Therefore a warning from the Lord God unto you that are ſitting in Counſell, that are ſetting up your unrighteous laws, made without the Counſel of God: this is the Word of the Lord God unto you (whiles you are ſo doing, you ſhall never proſper) the Lord God will over-turne by his power the counſellers of the earth thatſtrive for Maſterdom, to rule and govern the Nations, whiles you your ſelves are out of the power of God, and are not led by the ſpirit of God, to rule and to govern all things in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ighteouſneſs, Juſtice, and equity.</p>
+            <p>Wo unto you that dig deep, to hide your counſell from the Lord, the Lord God will find out your Counſell, he will lay open your ſecret intents, he is ſeeing you in ſecret, with his all ſeeing eye, and he will reward you openly, a juſt reward, according to your works of Darkneſs; The Lord God is comming to rip off all coverings that are not of his Righteous Spirit, for all coverings ſhall be to Narrow, for all mens works ſhall be tryed of what ſort it is, and the ſecrets of all hearts ſhall be layd open by him that is the light, then ſhall the workers of Darkneſs appear, that hath been acting contrary to the light in their conſciences; Then ſhall they be made to confeſs that they have been warned in their life time by the ſervants of the Lord, whom they have not beleeved, neither will they beleeve if one ſhould riſe again from the Dead.</p>
+            <p>But I ſay by the power and ſpirit of the living God, and
+<pb n="8" facs="tcp:47185:5"/>it is the word of the Lord God unto you, (that are ſiting in counſell) and a warning to you; That you come to Repen<g ref="char:EOLhyphen"/>tance, and meet the Lord ſpeedily, in the way of his Judg<g ref="char:EOLhyphen"/>ments, (whiles there is a little ſpace for repentance left) be<g ref="char:EOLhyphen"/>fore the time come that Repentance be hid from your eyes, and that you are cut off from the earth.</p>
+            <p>For the day of vengeance is drawn neer to all that are out of the Son of God (the light and life <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> men: A day of ho<g ref="char:EOLhyphen"/>rible tempeſt ſhall paſs over them, a Storm of fierce Indigna<g ref="char:EOLhyphen"/>tion ſhall come upon them; Then wo from the Lord God unto them for evermore, that are found Perſecutors of the Son of God, (the light of the world) for Judgment is begun all ready at the houſe of God, and it ſhall go through all, and end in the deſtruction of the ungodly.</p>
+            <closer>
+               <signed>Given forth by the ſpirit of the Lord as received into his ſervant known by the Name of <hi>Dorothy White.</hi> In ſcorne called Quaker.</signed>
+            </closer>
+            <epigraph>
+               <q>But the time cometh that a day of Quaking ſhall paſs over all that have not yet known Quaking, the earth ſhall be terribly ſhaken, and not the earth onely, but the Heavens alſo.</q>
+            </epigraph>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:47185:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
